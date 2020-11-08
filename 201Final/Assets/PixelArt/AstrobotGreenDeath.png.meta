@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: d7fbe2ecde9c748e38c8d1573a1f8629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2024137949754134583
+    second: AstrobotGreenDeath_0
+  - first:
+      213: 4840729693370830878
+    second: AstrobotGreenDeath_1
+  - first:
+      213: 205034646820934264
+    second: AstrobotGreenDeath_2
+  - first:
+      213: 966551348082825361
+    second: AstrobotGreenDeath_3
+  - first:
+      213: -7379923354664070346
+    second: AstrobotGreenDeath_4
+  - first:
+      213: 6297947905020899396
+    second: AstrobotGreenDeath_5
+  - first:
+      213: -5745031658898549600
+    second: AstrobotGreenDeath_6
+  - first:
+      213: 8351371646379077842
+    second: AstrobotGreenDeath_7
+  - first:
+      213: 2228142805625071619
+    second: AstrobotGreenDeath_8
+  - first:
+      213: 2246758030812292472
+    second: AstrobotGreenDeath_9
+  - first:
+      213: 8644260783790023163
+    second: AstrobotGreenDeath_10
+  - first:
+      213: -3247557272259559957
+    second: AstrobotGreenDeath_11
+  - first:
+      213: -6978959446213969878
+    second: AstrobotGreenDeath_12
+  - first:
+      213: 6610180725713390271
+    second: AstrobotGreenDeath_13
+  - first:
+      213: 3570231606187898608
+    second: AstrobotGreenDeath_14
+  - first:
+      213: 1265564142744454912
+    second: AstrobotGreenDeath_15
+  - first:
+      213: -2958562765226279938
+    second: AstrobotGreenDeath_16
+  - first:
+      213: -2963914442436824736
+    second: AstrobotGreenDeath_17
+  - first:
+      213: 6939761445982864553
+    second: AstrobotGreenDeath_18
+  - first:
+      213: 7238945066177871292
+    second: AstrobotGreenDeath_19
+  - first:
+      213: -2814479367081515592
+    second: AstrobotGreenDeath_20
+  - first:
+      213: -7207273749838186169
+    second: AstrobotGreenDeath_21
+  - first:
+      213: 3961638161194643963
+    second: AstrobotGreenDeath_22
+  - first:
+      213: -969391188829142487
+    second: AstrobotGreenDeath_23
+  - first:
+      213: 8088455581489681046
+    second: AstrobotGreenDeath_24
+  - first:
+      213: -4278455425804541268
+    second: AstrobotGreenDeath_25
+  - first:
+      213: 5662266066249641948
+    second: AstrobotGreenDeath_0
+  - first:
+      213: 8252286579072400497
+    second: AstrobotGreenDeath_1
+  - first:
+      213: -2152998571783582443
+    second: AstrobotGreenDeath_2
+  - first:
+      213: 6216118129857007653
+    second: AstrobotGreenDeath_3
+  - first:
+      213: 6629717960377237282
+    second: AstrobotGreenDeath_4
+  - first:
+      213: 2385552040403895860
+    second: AstrobotGreenDeath_5
+  - first:
+      213: -2344514729077987726
+    second: AstrobotGreenDeath_6
+  - first:
+      213: 5440673256920005956
+    second: AstrobotGreenDeath_7
+  - first:
+      213: 3036297999080422987
+    second: AstrobotGreenDeath_8
+  - first:
+      213: -5651385749600147765
+    second: AstrobotGreenDeath_9
+  - first:
+      213: -7759869541920098179
+    second: AstrobotGreenDeath_10
+  - first:
+      213: -5232549469941972865
+    second: AstrobotGreenDeath_11
+  - first:
+      213: -2713940403274758918
+    second: AstrobotGreenDeath_12
+  - first:
+      213: 3006797024114428942
+    second: AstrobotGreenDeath_13
+  - first:
+      213: 5096507896226307621
+    second: AstrobotGreenDeath_14
+  - first:
+      213: -6678800479655426809
+    second: AstrobotGreenDeath_15
+  - first:
+      213: -3830875474391857657
+    second: AstrobotGreenDeath_16
+  - first:
+      213: 4867958576386702229
+    second: AstrobotGreenDeath_17
+  - first:
+      213: 3025361557805175566
+    second: AstrobotGreenDeath_18
+  - first:
+      213: 7769452028401894837
+    second: AstrobotGreenDeath_19
+  - first:
+      213: 5326345952002301193
+    second: AstrobotGreenDeath_20
+  - first:
+      213: 8165221002456804317
+    second: AstrobotGreenDeath_21
+  - first:
+      213: 980026520029430876
+    second: AstrobotGreenDeath_22
+  - first:
+      213: 1186776862076772217
+    second: AstrobotGreenDeath_23
+  - first:
+      213: -3046402418790790555
+    second: AstrobotGreenDeath_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfee8ebcf8649e40800000000000000
+      internalID: 5662266066249641948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c7552dbe2068270800000000000000
+      internalID: 8252286579072400497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d8aeeb4330f12e0800000000000000
+      internalID: -2152998571783582443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5201ef33186144650800000000000000
+      internalID: 6216118129857007653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fff45fb5d710c50800000000000000
+      internalID: 6629717960377237282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_5
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4368b7901fe2b1120800000000000000
+      internalID: 2385552040403895860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a2a2964c967fd0800000000000000
+      internalID: -2344514729077987726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d3fa15087218b40800000000000000
+      internalID: 5440673256920005956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_8
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4efa6371f8132a20800000000000000
+      internalID: 3036297999080422987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e0626a9e3291b0800000000000000
+      internalID: -5651385749600147765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78ba72e3c76f4490800000000000000
+      internalID: -7759869541920098179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f704376faff3267b0800000000000000
+      internalID: -5232549469941972865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_12
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af44a311595265ad0800000000000000
+      internalID: -2713940403274758918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cca0676f94ab920800000000000000
+      internalID: 3006797024114428942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eda8dddee6ab640800000000000000
+      internalID: 5096507896226307621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7050e6c79522053a0800000000000000
+      internalID: -6678800479655426809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotGreenDeath_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060e1a8d0ff5dac0800000000000000
+      internalID: -3830875474391857657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
