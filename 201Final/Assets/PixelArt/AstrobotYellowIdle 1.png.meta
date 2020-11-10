@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 7cdb56eceeb6b4428a29d1507ce42dee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4701108269879957063
+    second: AstrobotYellowIdle 1_0
+  - first:
+      213: -1634888482957344839
+    second: AstrobotYellowIdle 1_1
+  - first:
+      213: -579526686016034790
+    second: AstrobotYellowIdle 1_2
+  - first:
+      213: 8243315572193108359
+    second: AstrobotYellowIdle 1_3
+  - first:
+      213: -6031496965090138879
+    second: AstrobotYellowIdle 1_4
+  - first:
+      213: -3374872422048160638
+    second: AstrobotYellowIdle 1_5
+  - first:
+      213: -451039059639375826
+    second: AstrobotYellowIdle 1_6
+  - first:
+      213: -7114298851293910885
+    second: AstrobotYellowIdle 1_7
+  - first:
+      213: 5174822622081398594
+    second: AstrobotYellowIdle 1_8
+  - first:
+      213: -7569609815042637847
+    second: AstrobotYellowIdle 1_9
+  - first:
+      213: 1074494962310473727
+    second: AstrobotYellowIdle 1_10
+  - first:
+      213: 7935818415699164292
+    second: AstrobotYellowIdle 1_11
+  - first:
+      213: -241775710094914687
+    second: AstrobotYellowIdle 1_12
+  - first:
+      213: -3340410556947255061
+    second: AstrobotYellowIdle 1_13
+  - first:
+      213: 4566057208678122050
+    second: AstrobotYellowIdle 1_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74698dc5011bd3140800000000000000
+      internalID: 4701108269879957063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf33f53695bf49e0800000000000000
+      internalID: -1634888482957344839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18a72eac8b15f7f0800000000000000
+      internalID: -579526686016034790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781240486d3266270800000000000000
+      internalID: 8243315572193108359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105a4fb6771db4ca0800000000000000
+      internalID: -6031496965090138879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284ae89b96b0a21d0800000000000000
+      internalID: -3374872422048160638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e286e5e6d569db9f0800000000000000
+      internalID: -451039059639375826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9828ae43eee44d90800000000000000
+      internalID: -7114298851293910885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24731d4e1c9a0d740800000000000000
+      internalID: 5174822622081398594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efb21e8af753f690800000000000000
+      internalID: -7569609815042637847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7667da97f59ee00800000000000000
+      internalID: 1074494962310473727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c70c5adc0b12e60800000000000000
+      internalID: 7935818415699164292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_12
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b897cc54a05acf0800000000000000
+      internalID: -241775710094914687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_13
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b135fb4a74a1d0800000000000000
+      internalID: -3340410556947255061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstrobotYellowIdle 1_14
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2420f5bd6d4ed5f30800000000000000
+      internalID: 4566057208678122050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
